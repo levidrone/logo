@@ -11,6 +11,17 @@ Logotypes
   - `levidrone-com`: _levidrone.com_ text
   - `levidr-one`: _levidr.one_ short URL
 
+Fonts used
+==========
+
+Exo 2
+-----
+
+* Link: http://ndiscovered.com/exo-2/
+* Copyright (c) 2013, Natanael Gama
+* License: [OFL](http://scripts.sil.org/OFL)
+
+
 License
 =======
 
