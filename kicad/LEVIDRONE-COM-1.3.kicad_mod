@@ -1,4 +1,4 @@
-(module svg2mod (layer F.Cu) (tedit 59284AFC)
+(module levidrone-com (layer F.Cu) (tedit 59284AFC)
   (attr smd)
   (fp_text reference levidrone-com (at 0 -3.719602) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
