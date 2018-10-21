@@ -7,7 +7,7 @@ Logotypes
   - ``LEVIDRONE-FULL-7``: full logo, 7 mm height
   - ``LEVIDRONE-COM-1.3``: *levidrone.com* text, 1.3 mm height
 
-* `svg `</svg/>`__: vector format in curves for any purposes
+* `svg </svg/>`__: vector format in curves for any purposes
 
   - ``levidrone-short``: graphical part only
   - ``levidrone-full``: full logo
