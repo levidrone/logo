@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:lc="http://www.librecad.org"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -7,25 +8,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="9.9268303mm"
-   height="1.6973208mm"
-   viewBox="0 0 28.139037 4.8113093"
-   version="1.2"
-   id="svg9209"
-   inkscape:version="0.92+devel (f6a58ba, 2018-07-26)"
-   sodipodi:docname="lvdr-one.svg">
+   width="314"
+   height="63"
+   viewBox="0 0 83.07917 16.66875"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="lvdr-one.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata9249">
+     id="metadata20">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Qt Svg Document</dc:title>
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs18" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -35,63 +38,99 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1865"
+     inkscape:window-width="1862"
      inkscape:window-height="1016"
-     id="namedview9247"
+     id="namedview16"
      showgrid="false"
-     inkscape:zoom="20.48"
-     inkscape:cx="21.697004"
-     inkscape:cy="-3.1346484"
-     inkscape:window-x="55"
+     inkscape:zoom="0.99906666"
+     inkscape:cx="48.845949"
+     inkscape:cy="-27.78192"
+     inkscape:window-x="58"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg9209"
-     inkscape:document-units="mm"
-     units="mm"
+     inkscape:current-layer="g10"
+     units="px"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:document-rotation="0" />
-  <title
-     id="title9211">Qt Svg Document</title>
-  <desc
-     id="desc9213">Generated with Qt</desc>
-  <defs
-     id="defs9215">
-    <linearGradient
-       id="linearGradient9666">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop9668" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop9670" />
-    </linearGradient>
-  </defs>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Exo 2';-inkscape-font-specification:'Exo 2';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="-0.38977033"
-     y="4.7239532"
-     id="text3099"><tspan
-       sodipodi:role="line"
-       x="-0.38977033"
-       y="4.7239532"
-       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 -0.36456734 -0.29165387 -0.36456734 -0.36456734"
-       id="tspan3111"
-       style="font-size:2.8932066px;line-height:80.00000119%"><tspan
-         dx="0 0 0 -0.43748081 -0.11899463 -0.36456734 -0.43748081 -0.51039428"
-         id="tspan4842"
-         style="font-size:6.71970558px"><tspan
-   style="font-weight:800;line-height:80.00000119%;-inkscape-font-specification:'Exo 2 Ultra-Bold'"
-   id="tspan3103"
-   dx="0 0">LV</tspan>DR.ONE</tspan></tspan></text>
+     fit-margin-bottom="0" />
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="SilkS"
-     transform="translate(0.07498215)" />
+     lc:layername="0"
+     lc:is_locked="false"
+     lc:is_construction="false"
+     id="g2"
+     style="fill:none;stroke:#000000;stroke-width:1"
+     transform="translate(-66.471424,-22.547916)" />
+  <g
+     lc:layername="D"
+     lc:is_locked="false"
+     lc:is_construction="false"
+     id="g10"
+     style="fill:none;stroke:#000000;stroke-width:1"
+     transform="translate(-66.471424,-22.547916)">
+    <g
+       aria-label="lvdr.one"
+       transform="matrix(1.0010502,0,0,0.99608726,-0.05244472,0.14324963)"
+       style="font-style:normal;font-weight:normal;font-size:10.60022926px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26500574"
+       id="text822">
+      <path
+         d="M 69.552173,22.492674 V 39.000763 H 66.454079 V 23.171088 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.61382103px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Bold';fill:#3c3c3c;fill-opacity:1;stroke-width:0.26500574"
+         id="path820"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 75.819381,39.000763 70.753885,27.218962 h 3.36946 l 3.233776,7.846996 3.211163,-7.846996 h 3.301617 l -5.065495,11.781801 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.61382103px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Bold';fill:#3c3c3c;fill-opacity:1;stroke-width:0.26500574"
+         id="path822"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 93.447915,39.000763 v -0.972394 q -0.701028,0.565345 -1.560353,0.859325 -0.859325,0.271366 -1.786492,0.271366 -1.24376,0 -2.351838,-0.474891 -1.085463,-0.47489 -1.89956,-1.288987 -0.814098,-0.814098 -1.288988,-1.922175 -0.452277,-1.108077 -0.452277,-2.374451 0,-1.266374 0.474891,-2.374452 0.47489,-1.108077 1.288987,-1.922174 0.814098,-0.814098 1.922175,-1.266374 1.130691,-0.474891 2.397065,-0.474891 0.859325,0 1.673423,0.248752 0.836711,0.226139 1.53774,0.678415 v -4.816744 l 3.098093,-0.678414 v 16.508089 z m -6.286642,-5.902207 q 0,1.42467 0.995008,2.419679 0.995008,0.995008 2.442293,0.995008 0.859325,0 1.560354,-0.29398 0.723642,-0.29398 1.24376,-0.836711 v -4.590606 q -0.497504,-0.520118 -1.24376,-0.814098 -0.723643,-0.293979 -1.560354,-0.293979 -1.469898,0 -2.464907,0.995008 -0.972394,0.972394 -0.972394,2.419679 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.61382103px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Bold';fill:#3c3c3c;fill-opacity:1;stroke-width:0.26500574"
+         id="path824"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 98.961446,39.000763 V 27.218962 h 3.098094 v 1.288988 q 0.56534,-0.76887 1.35683,-1.153305 0.8141,-0.407049 1.78649,-0.407049 0.45228,0.02261 0.74626,0.09046 0.31659,0.04523 0.54273,0.18091 v 2.713659 q -0.33921,-0.158297 -0.74626,-0.226139 -0.40705,-0.09046 -0.83671,-0.09046 -0.90455,0 -1.67342,0.452277 -0.74626,0.452276 -1.17592,1.311601 v 7.620858 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.61382103px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Bold';fill:#3c3c3c;fill-opacity:1;stroke-width:0.26500574"
+         id="path826"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 107.29994,35.540848 q 0.76887,0 1.3116,0.542732 0.54273,0.542732 0.54273,1.311602 0,0.746256 -0.54273,1.288987 -0.54273,0.542732 -1.3116,0.542732 -0.74626,0 -1.28899,-0.542732 -0.54273,-0.542731 -0.54273,-1.288987 0,-0.76887 0.54273,-1.311602 0.54273,-0.542732 1.28899,-0.542732 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.61382103px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Bold';fill:#3c3c3c;fill-opacity:1;stroke-width:0.26500574"
+         id="path828"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 110.21147,33.121169 q 0,-1.288987 0.47489,-2.397065 0.4975,-1.130691 1.33421,-1.944788 0.85933,-0.836712 2.01263,-1.311602 1.15331,-0.47489 2.46491,-0.47489 1.3116,0 2.46491,0.47489 1.1533,0.47489 1.99001,1.311602 0.85933,0.814097 1.33422,1.944788 0.4975,1.108078 0.4975,2.397065 0,1.288988 -0.4975,2.419679 -0.47489,1.108078 -1.33422,1.922175 -0.83671,0.814098 -1.99001,1.288988 -1.15331,0.47489 -2.46491,0.47489 -1.3116,0 -2.46491,-0.47489 -1.1533,-0.47489 -2.01263,-1.288988 -0.83671,-0.814097 -1.33421,-1.922175 -0.47489,-1.130691 -0.47489,-2.419679 z m 6.28664,3.414687 q 1.35683,0 2.30661,-0.995008 0.94978,-0.995008 0.94978,-2.419679 0,-1.447284 -0.94978,-2.442292 -0.94978,-0.995008 -2.30661,-0.995008 -1.35683,0 -2.30661,0.995008 -0.94978,0.995008 -0.94978,2.442292 0,1.424671 0.94978,2.419679 0.94978,0.995008 2.30661,0.995008 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.61382103px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Bold';fill:#3c3c3c;fill-opacity:1;stroke-width:0.26500574"
+         id="path830"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 124.667,39.000763 V 27.218962 h 3.09809 v 0.927167 q 0.67842,-0.565346 1.49252,-0.859325 0.83671,-0.29398 1.8091,-0.29398 2.03525,0 3.34685,1.311602 1.3116,1.311601 1.3116,3.369459 v 7.326878 h -3.09809 v -6.874602 q 0,-1.108077 -0.67842,-1.786492 -0.6558,-0.678414 -1.76388,-0.678414 -0.76887,0 -1.40205,0.316593 -0.61058,0.29398 -1.01763,0.859326 v 8.163589 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.61382103px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Bold';fill:#3c3c3c;fill-opacity:1;stroke-width:0.26500574"
+         id="path832"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 148.65461,37.530865 q -1.08546,0.881939 -2.23877,1.288987 -1.13069,0.407049 -2.53275,0.407049 -1.33421,0 -2.51013,-0.47489 -1.1533,-0.47489 -2.01263,-1.288988 -0.83671,-0.814097 -1.33421,-1.922175 -0.4749,-1.130691 -0.4749,-2.419679 0,-1.266374 0.45228,-2.374451 0.47489,-1.130691 1.28899,-1.944788 0.8141,-0.836712 1.92217,-1.311602 1.1307,-0.47489 2.39707,-0.47489 1.24376,0 2.30661,0.497504 1.08546,0.47489 1.85433,1.311601 0.79149,0.836712 1.22115,2.012631 0.45227,1.153304 0.45227,2.510134 v 0.814097 h -8.77416 q 0.3166,1.108077 1.22115,1.786492 0.90455,0.678415 2.1257,0.678415 0.76887,0 1.44728,-0.248752 0.67842,-0.248752 1.15331,-0.701029 z M 143.54389,29.5708 q -1.06285,0 -1.83172,0.6558 -0.76887,0.633187 -1.06285,1.718651 h 5.76652 q -0.29398,-1.040236 -1.08546,-1.696037 -0.76887,-0.678414 -1.78649,-0.678414 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.61382103px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Bold';fill:#3c3c3c;fill-opacity:1;stroke-width:0.26500574"
+         id="path834"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot833"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26479209,0,0,0.26361688,-0.05244472,-0.85309716)"><flowRegion
+         id="flowRegion835"><rect
+           id="rect837"
+           width="140.88148"
+           height="40.037369"
+           x="258.24103"
+           y="76.597488" /></flowRegion><flowPara
+         id="flowPara839" /></flowRoot>  </g>
+  <g
+     lc:layername="L"
+     lc:is_locked="false"
+     lc:is_construction="false"
+     id="g12"
+     style="fill:none;stroke:#000000;stroke-width:1"
+     transform="translate(-66.471424,-22.547916)" />
 </svg>

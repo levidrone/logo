@@ -14,15 +14,16 @@ Logotypes
   - ``levidrone-com``: *levidrone.com* text
   - ``lvdr-one``: *lvdr.one* short URL
 
-Fonts used
-==========
+Font
+====
 
-Exo 2
------
+Red Hat Display
+---------------
 
-* Link: https://fonts.google.com/specimen/Exo+2
-* Copyright (c) 2013, Natanael Gama
-* License: `OFL <http://scripts.sil.org/OFL>`__
+* Link: https://github.com/RedHatOfficial/RedHatFont
+* Copyright 2019 The Red Hat Project Authors
+* Style: Bold
+* License: `OFL <https://github.com/RedHatOfficial/RedHatFont/blob/master/LICENSE>`__
 
 
 License

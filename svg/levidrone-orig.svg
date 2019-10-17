@@ -8,12 +8,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="170"
-   height="170"
-   viewBox="0 0 44.979168 44.979167"
+   width="700"
+   height="240"
+   viewBox="0 0 185.20834 63.5"
    version="1.1"
    id="svg14"
-   sodipodi:docname="levidrone-short.svg"
+   sodipodi:docname="levidrone-orig.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata20">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,32 +42,28 @@
      inkscape:window-height="1016"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="0.99906665"
-     inkscape:cx="233.86306"
-     inkscape:cy="-24.260566"
+     inkscape:zoom="0.49953333"
+     inkscape:cx="-26.28256"
+     inkscape:cy="74.426494"
      inkscape:window-x="58"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g10"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     units="px" />
   <g
      lc:layername="0"
      lc:is_locked="false"
      lc:is_construction="false"
      id="g2"
      style="fill:none;stroke:#000000;stroke-width:1"
-     transform="translate(-9.260417,-8.260417)" />
+     transform="translate(0,0.99999956)" />
   <g
      lc:layername="D"
      lc:is_locked="false"
      lc:is_construction="false"
      id="g10"
      style="fill:none;stroke:#000000;stroke-width:1"
-     transform="translate(-9.260417,-8.260417)">
+     transform="translate(0,0.99999956)">
     <rect
        style="fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.89872128;stroke-opacity:1"
        id="rect824"
@@ -90,6 +86,18 @@
        id="path8"
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00012505;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.60022926px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26500574"
+       x="65.232933"
+       y="39.000763"
+       id="text822"
+       transform="scale(1.000261,0.99973908)"><tspan
+         sodipodi:role="line"
+         id="tspan820"
+         x="65.232933"
+         y="39.000763"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.61382103px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Bold';fill:#3c3c3c;fill-opacity:1;stroke-width:0.26500574">LeviDrone</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot833"
@@ -108,5 +116,5 @@
      lc:is_construction="false"
      id="g12"
      style="fill:none;stroke:#000000;stroke-width:1"
-     transform="translate(-9.260417,-8.260417)" />
+     transform="translate(0,0.99999956)" />
 </svg>
